@@ -1,0 +1,5 @@
+tensorflow-cpu
+keras-nlp
+tensorflow-hub
+keras>=3
+tensorflow-text
